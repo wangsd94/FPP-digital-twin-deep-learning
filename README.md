@@ -7,7 +7,7 @@ Author: Yi Zheng<sup>1,2</sup>, Shaodong Wang <sup>2,3</sup>, Qing Li<sup>2</sup
 
 3 These authors contributed equally.
 
-* beiwen@iastate.edu
+\* Corresponding author beiwen@iastate.edu
 
 This repository constains deep learning codes and some data sample of the article, "Fringe projection profilometry by conducting
 deep learning from its digital twin"
