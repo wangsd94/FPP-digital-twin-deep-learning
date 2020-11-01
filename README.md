@@ -1,5 +1,5 @@
 # Fringe-projection-profilometry-by-conducting-deep-learning-from-its-digital-twin
-Author: YI ZHENG<sup>1,2</sup>, SHAODONG WANG <sup>2,3</sup>, QING LI<sup>2</sup>, AND BEIWEN LI<sup>1, *</sup>
+Author: Yi Zheng<sup>1,2</sup>, Shaodong Wang <sup>2,3</sup>, Qing Li<sup>2</sup>, AND Beiwen Li<sup>1, *</sup>
 
 1 Department of Mechanical Engineering, Iowa State University, Ames, IA 50011, USA
 
