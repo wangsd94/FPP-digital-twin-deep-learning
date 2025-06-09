@@ -12,4 +12,4 @@ Author: Yi Zheng<sup>1,2</sup>, Shaodong Wang <sup>2,3</sup>, Qing Li<sup>2</sup
 This repository constains deep learning codes and some data sample of the article, "Fringe projection profilometry by conducting
 deep learning from its digital twin"
 
-The rendered fringe images and the corresponding depth maps are avaliable upon request from the corresponding author or the leading author (Yi Zheng, yizheng@iastate.edu). 
+The rendered fringe images and the corresponding depth maps are avaliable upon request from the corresponding author or the leading author (Yi Zheng, yizheng@iastate.edu, yizheng6838@gmail.com). Please mention **your affiliation and your current occupation**. 
